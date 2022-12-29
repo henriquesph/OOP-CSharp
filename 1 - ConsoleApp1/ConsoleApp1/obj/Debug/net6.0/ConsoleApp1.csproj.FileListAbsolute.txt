@@ -1,0 +1,30 @@
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\SEÇÃO 2 - Introdução ao C# e .NET\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

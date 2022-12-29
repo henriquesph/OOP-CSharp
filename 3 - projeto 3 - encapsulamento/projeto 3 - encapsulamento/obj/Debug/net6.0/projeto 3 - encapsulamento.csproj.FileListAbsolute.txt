@@ -1,0 +1,15 @@
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\bin\Debug\net6.0\projeto 3 - encapsulamento.exe
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\bin\Debug\net6.0\projeto 3 - encapsulamento.deps.json
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\bin\Debug\net6.0\projeto 3 - encapsulamento.runtimeconfig.json
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\bin\Debug\net6.0\projeto 3 - encapsulamento.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\bin\Debug\net6.0\projeto 3 - encapsulamento.pdb
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\obj\Debug\net6.0\projeto 3 - encapsulamento.csproj.AssemblyReference.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\obj\Debug\net6.0\projeto 3 - encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\obj\Debug\net6.0\projeto 3 - encapsulamento.AssemblyInfoInputs.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\obj\Debug\net6.0\projeto 3 - encapsulamento.AssemblyInfo.cs
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\obj\Debug\net6.0\projeto 3 - encapsulamento.csproj.CoreCompileInputs.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\obj\Debug\net6.0\projeto 3 - encapsulamento.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\obj\Debug\net6.0\refint\projeto 3 - encapsulamento.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\obj\Debug\net6.0\projeto 3 - encapsulamento.pdb
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\obj\Debug\net6.0\projeto 3 - encapsulamento.genruntimeconfig.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto 3 - encapsulamento\projeto 3 - encapsulamento\obj\Debug\net6.0\ref\projeto 3 - encapsulamento.dll

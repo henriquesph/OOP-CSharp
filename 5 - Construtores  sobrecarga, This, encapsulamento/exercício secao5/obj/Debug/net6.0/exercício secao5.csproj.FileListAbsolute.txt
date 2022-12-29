@@ -1,0 +1,15 @@
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\bin\Debug\net6.0\exercício secao5.exe
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\bin\Debug\net6.0\exercício secao5.deps.json
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\bin\Debug\net6.0\exercício secao5.runtimeconfig.json
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\bin\Debug\net6.0\exercício secao5.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\bin\Debug\net6.0\exercício secao5.pdb
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\obj\Debug\net6.0\exercício secao5.csproj.AssemblyReference.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\obj\Debug\net6.0\exercício secao5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\obj\Debug\net6.0\exercício secao5.AssemblyInfoInputs.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\obj\Debug\net6.0\exercício secao5.AssemblyInfo.cs
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\obj\Debug\net6.0\exercício secao5.csproj.CoreCompileInputs.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\obj\Debug\net6.0\exercício secao5.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\obj\Debug\net6.0\refint\exercício secao5.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\obj\Debug\net6.0\exercício secao5.pdb
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\obj\Debug\net6.0\exercício secao5.genruntimeconfig.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\5 - exercício seção 5\exercício secao5\obj\Debug\net6.0\ref\exercício secao5.dll

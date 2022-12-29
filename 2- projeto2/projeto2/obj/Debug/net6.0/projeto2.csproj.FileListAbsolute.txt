@@ -1,0 +1,15 @@
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\bin\Debug\net6.0\projeto2.exe
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\bin\Debug\net6.0\projeto2.deps.json
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\bin\Debug\net6.0\projeto2.runtimeconfig.json
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\bin\Debug\net6.0\projeto2.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\bin\Debug\net6.0\projeto2.pdb
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\obj\Debug\net6.0\projeto2.csproj.AssemblyReference.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\obj\Debug\net6.0\projeto2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\obj\Debug\net6.0\projeto2.AssemblyInfoInputs.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\obj\Debug\net6.0\projeto2.AssemblyInfo.cs
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\obj\Debug\net6.0\projeto2.csproj.CoreCompileInputs.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\obj\Debug\net6.0\projeto2.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\obj\Debug\net6.0\refint\projeto2.dll
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\obj\Debug\net6.0\projeto2.pdb
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\obj\Debug\net6.0\projeto2.genruntimeconfig.cache
+E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\projeto2\projeto2\obj\Debug\net6.0\ref\projeto2.dll
