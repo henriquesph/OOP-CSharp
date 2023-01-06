@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Henrique\\Curso C SHARP ATUALIZADO\\Udemy - C# Avançado\\curso\\projetos\\6 - Seção 6\\seção 6\\seção 6.csproj": {}
+    "D:\\Henrique\\github\\C# Completo - POO + projetos\\Object-Oriented-Programming-whith-C----Projects\\6 - Comportamento de memória Arrays e listas\\seção 6\\seção 6.csproj": {}
   },
   "projects": {
-    "E:\\Henrique\\Curso C SHARP ATUALIZADO\\Udemy - C# Avançado\\curso\\projetos\\6 - Seção 6\\seção 6\\seção 6.csproj": {
+    "D:\\Henrique\\github\\C# Completo - POO + projetos\\Object-Oriented-Programming-whith-C----Projects\\6 - Comportamento de memória Arrays e listas\\seção 6\\seção 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Henrique\\Curso C SHARP ATUALIZADO\\Udemy - C# Avançado\\curso\\projetos\\6 - Seção 6\\seção 6\\seção 6.csproj",
+        "projectUniqueName": "D:\\Henrique\\github\\C# Completo - POO + projetos\\Object-Oriented-Programming-whith-C----Projects\\6 - Comportamento de memória Arrays e listas\\seção 6\\seção 6.csproj",
         "projectName": "seção 6",
-        "projectPath": "E:\\Henrique\\Curso C SHARP ATUALIZADO\\Udemy - C# Avançado\\curso\\projetos\\6 - Seção 6\\seção 6\\seção 6.csproj",
-        "packagesPath": "C:\\Users\\Henrique\\.nuget\\packages\\",
-        "outputPath": "E:\\Henrique\\Curso C SHARP ATUALIZADO\\Udemy - C# Avançado\\curso\\projetos\\6 - Seção 6\\seção 6\\obj\\",
+        "projectPath": "D:\\Henrique\\github\\C# Completo - POO + projetos\\Object-Oriented-Programming-whith-C----Projects\\6 - Comportamento de memória Arrays e listas\\seção 6\\seção 6.csproj",
+        "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
+        "outputPath": "D:\\Henrique\\github\\C# Completo - POO + projetos\\Object-Oriented-Programming-whith-C----Projects\\6 - Comportamento de memória Arrays e listas\\seção 6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\valer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

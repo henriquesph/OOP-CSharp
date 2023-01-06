@@ -13,3 +13,18 @@ E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\6 - Se�
 E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\6 - Seção 6\seção 6\obj\Debug\net6.0\seção 6.pdb
 E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\6 - Seção 6\seção 6\obj\Debug\net6.0\seção 6.genruntimeconfig.cache
 E:\Henrique\Curso C SHARP ATUALIZADO\Udemy - C# Avançado\curso\projetos\6 - Seção 6\seção 6\obj\Debug\net6.0\ref\seção 6.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\bin\Debug\net6.0\seção 6.exe
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\bin\Debug\net6.0\seção 6.deps.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\bin\Debug\net6.0\seção 6.runtimeconfig.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\bin\Debug\net6.0\seção 6.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\bin\Debug\net6.0\seção 6.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\obj\Debug\net6.0\seção 6.csproj.AssemblyReference.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\obj\Debug\net6.0\seção 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\obj\Debug\net6.0\seção 6.AssemblyInfoInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\obj\Debug\net6.0\seção 6.AssemblyInfo.cs
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\obj\Debug\net6.0\seção 6.csproj.CoreCompileInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\obj\Debug\net6.0\seção 6.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\obj\Debug\net6.0\refint\seção 6.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\obj\Debug\net6.0\seção 6.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\obj\Debug\net6.0\seção 6.genruntimeconfig.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\6 - Comportamento de memória Arrays e listas\seção 6\obj\Debug\net6.0\ref\seção 6.dll

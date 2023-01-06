@@ -494,61 +494,174 @@
 
 
 // AP1 de algoritmos, empilhando e desempilhando filas.
-namespace Pilha
+//namespace Pilha
+//{
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            List<int> pares = new List<int>();
+//            List<int> impares = new List<int>();
+
+//            for(int i = 0; i < 30; i++)
+//            {
+//                Console.WriteLine("Digite um número:");
+//                int n = int.Parse(Console.ReadLine());
+
+//                if (n % 2 == 0 & n != 0)
+//                {
+//                    pares.Add(n);
+//                }
+//                else if (n % 2 == 1)
+//                {
+//                    impares.Add(n);
+//                }
+//                else if (n == 0)
+//                {
+//                    if (pares.Count == 0 & impares.Count == 0)
+//                    {
+//                        Console.WriteLine("A pilha está vazia");
+//                        Console.WriteLine();
+//                    }
+//                    else
+//                    {
+//                        pares.RemoveAt(pares.Count - 1);
+//                        impares.RemoveAt(impares.Count - 1);
+//                    }
+//                }
+//                Console.WriteLine();
+//            }
+
+//            Console.WriteLine();
+//            Console.WriteLine("---- DESEMPILHANDO ELEMENTOS PARES ----");
+
+//            int tamanhoPar = pares.Count;
+//            for (int i = tamanhoPar; i > 0; i--)
+//            {
+//                Console.WriteLine("item eliminado: " + pares[i - 1]);
+//                pares.RemoveAt(i - 1);
+//            }
+
+//            Console.WriteLine();
+//            Console.WriteLine("---- DESEMPILHANDO ELEMENTOS ÍMPARES ----");
+//            int tamanhoImpar = impares.Count;
+//            for (int i = tamanhoImpar; i > 0; i--)
+//            {
+//                Console.WriteLine("item eliminado: " + impares[i - 1]);
+//                impares.RemoveAt(i - 1);
+//            }
+//        }
+//    }
+//}
+
+
+//namespace aula80
+//{
+//    //Ex Matriz
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            Console.WriteLine("Digite o tamanho da Matriz");
+//            int n = int.Parse(Console.ReadLine());
+//            int[,] matrix = new int[n, n];
+
+//            for (int count = 0; count < n; count++)
+//            {
+//                string[] values = Console.ReadLine().Split(' ');
+//                for (int contador = 0; contador < n; contador++)
+//                {
+//                    matrix[count, contador] = int.Parse(values[contador]);
+//                }
+//            }
+
+//            Console.WriteLine("---------------");
+//            Console.Write("Negativos: ");
+
+//            for (int count = 0; count < n; count++)
+//            {
+//                for (int contador = 0; contador < n; contador++)
+//                {
+//                    if (matrix[count, contador] < 0)
+//                    {
+//                        Console.Write(matrix[count, contador] + ", ");
+//                    }
+//                }
+//            }
+
+//            Console.WriteLine("---------------");
+//            Console.Write("Diagonal pricipal: ");
+
+//            for (int count = 0; count < n; count++)
+//            {
+//                Console.Write(matrix[count, count] + ", ");
+//            }
+//        }
+//    }
+//}
+
+namespace aula81
 {
-    class Program
+    //Ex Matriz
+    class Matriz
     {
         static void Main(string[] args)
         {
-            List<int> pares = new List<int>();
-            List<int> impares = new List<int>();
-            
-            for(int i = 0; i < 30; i++)
-            {
-                Console.WriteLine("Digite um número:");
-                int n = int.Parse(Console.ReadLine());
+            int[,] matrix = new int[3, 4];
 
-                if (n % 2 == 0 & n != 0)
+            Console.WriteLine("Digite os números da Matriz 3 x 4:");
+            for (int count = 0; count < 3; count++)
+            {
+                string[] values = Console.ReadLine().Split(' ');
+                for (int contador = 0; contador < 4; contador++)
                 {
-                    pares.Add(n);
+                    matrix[count, contador] = int.Parse(values[contador]);
                 }
-                else if (n % 2 == 1)
-                {
-                    impares.Add(n);
-                }
-                else if (n == 0)
-                {
-                    if (pares.Count == 0 & impares.Count == 0)
-                    {
-                        Console.WriteLine("A pilha está vazia");
-                        Console.WriteLine();
-                    }
-                    else
-                    {
-                        pares.RemoveAt(pares.Count - 1);
-                        impares.RemoveAt(impares.Count - 1);
-                    }
-                }
-                Console.WriteLine();
             }
 
-            Console.WriteLine();
-            Console.WriteLine("---- DESEMPILHANDO ELEMENTOS PARES ----");
-            
-            int tamanhoPar = pares.Count;
-            for (int i = tamanhoPar; i > 0; i--)
-            {
-                Console.WriteLine("item eliminado: " + pares[i - 1]);
-                pares.RemoveAt(i - 1);
-            }
+            Console.WriteLine("---------------");
 
-            Console.WriteLine();
-            Console.WriteLine("---- DESEMPILHANDO ELEMENTOS ÍMPARES ----");
-            int tamanhoImpar = impares.Count;
-            for (int i = tamanhoImpar; i > 0; i--)
+            Console.WriteLine("Digite um número para ser procurado: ");
+            int x = int.Parse(Console.ReadLine());
+
+            for (int count = 0; count < 3; count++)
             {
-                Console.WriteLine("item eliminado: " + impares[i - 1]);
-                impares.RemoveAt(i - 1);
+                for (int contador = 0; contador < 4; contador++)
+                {
+                    if (matrix[count, contador] == x)
+                    {
+                        Console.WriteLine("Posição: ");
+                        Console.WriteLine(count + ", " + contador);
+
+                        if(contador > 0)
+                        {
+                            Console.WriteLine("Esquerda: ");
+                            Console.WriteLine(matrix[count, contador - 1]);
+                        }
+
+                        if(contador < 3)
+                        {
+                            Console.WriteLine("Direita: ");
+                            Console.WriteLine(matrix[count, contador + 1]);
+                        }
+
+                        
+                        if(count < 2 )
+                        {
+                            Console.WriteLine("Baixo: ");
+                            Console.WriteLine(matrix[count + 1, contador]);
+                        }
+
+                        if(count > 0)
+                        {
+                            Console.WriteLine("Cima: ");
+                            Console.WriteLine(matrix[count - 1, contador]);
+                        }
+
+
+                        Console.WriteLine("------------------------");
+                    }
+                }
             }
         }
     }
