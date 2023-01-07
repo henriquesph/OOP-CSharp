@@ -1,0 +1,15 @@
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\bin\Debug\net6.0\Seção 7.exe
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\bin\Debug\net6.0\Seção 7.deps.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\bin\Debug\net6.0\Seção 7.runtimeconfig.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\bin\Debug\net6.0\Seção 7.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\bin\Debug\net6.0\Seção 7.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\obj\Debug\net6.0\Seção 7.csproj.AssemblyReference.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\obj\Debug\net6.0\Seção 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\obj\Debug\net6.0\Seção 7.AssemblyInfoInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\obj\Debug\net6.0\Seção 7.AssemblyInfo.cs
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\obj\Debug\net6.0\Seção 7.csproj.CoreCompileInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\obj\Debug\net6.0\Seção 7.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\obj\Debug\net6.0\refint\Seção 7.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\obj\Debug\net6.0\Seção 7.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\obj\Debug\net6.0\Seção 7.genruntimeconfig.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\7 - Tópicos especiais em C#\Seção 7\obj\Debug\net6.0\ref\Seção 7.dll
