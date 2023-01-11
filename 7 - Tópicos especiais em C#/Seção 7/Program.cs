@@ -124,7 +124,7 @@
 
 // Armazena na forma de Ticks
 
-using System;
+//using System;
 
 // Diferentes tipos de construtores
 
@@ -204,35 +204,103 @@ using System;
 //Console.WriteLine(s7);
 
 
-DateTime x = new DateTime(2001, 8, 15, 10, 10,10);
-DateTime y = new DateTime(2002, 8, 15, 10, 10, 10);
-TimeSpan z = new TimeSpan(1, 2, 11, 21);
+//DateTime x = new DateTime(2001, 8, 15, 10, 10,10);
+//DateTime y = new DateTime(2002, 8, 15, 10, 10, 10);
+//TimeSpan z = new TimeSpan(1, 2, 11, 21);
 
 
-DateTime a = x.Add(z); // 16/08/2001 12:21:31
-DateTime b = x.AddDays(7); // double
-DateTime c = x.AddHours(2); // 15/08/2001 12:10:10
-DateTime d = x.AddMilliseconds(2);
-DateTime e = x.AddMinutes(3);
-DateTime f = x.AddMonths(2);
-DateTime g = x.AddSeconds(2);
-DateTime h = x.AddTicks(1515515151L); // long
-DateTime i = x.AddYears(1); // int
-DateTime j = x.Subtract(z); // 14/08/2001 07:58:49 - passei um timeSpan
-TimeSpan l = x.Subtract(y); //z diferença de dias (-365.00:00:00) - passei um dateTime
+//DateTime a = x.Add(z); // 16/08/2001 12:21:31
+//DateTime b = x.AddDays(7); // double
+//DateTime c = x.AddHours(2); // 15/08/2001 12:10:10
+//DateTime d = x.AddMilliseconds(2);
+//DateTime e = x.AddMinutes(3);
+//DateTime f = x.AddMonths(2);
+//DateTime g = x.AddSeconds(2);
+//DateTime h = x.AddTicks(1515515151L); // long
+//DateTime i = x.AddYears(1); // int
+//DateTime j = x.Subtract(z); // 14/08/2001 07:58:49 - passei um timeSpan
+//TimeSpan l = x.Subtract(y); //z diferença de dias (-365.00:00:00) - passei um dateTime
 
-Console.WriteLine(a);
-Console.WriteLine(b);
-Console.WriteLine(c);
-Console.WriteLine(d);
-Console.WriteLine(e);
-Console.WriteLine(f);
-Console.WriteLine(g);
-Console.WriteLine(h);
-Console.WriteLine(i);
-Console.WriteLine(j);
-Console.WriteLine(l);
-
-
+//Console.WriteLine(a);
+//Console.WriteLine(b);
+//Console.WriteLine(c);
+//Console.WriteLine(d);
+//Console.WriteLine(e);
+//Console.WriteLine(f);
+//Console.WriteLine(g);
+//Console.WriteLine(h);
+//Console.WriteLine(i);
+//Console.WriteLine(j);
+//Console.WriteLine(l);
 
 
+// Aula 92: Propriedades e operações com TimeSpan
+
+//TimeSpan t1 = TimeSpan.MaxValue;
+//TimeSpan t2 = TimeSpan.MinValue;
+//TimeSpan t3 = TimeSpan.Zero;
+//Console.WriteLine(t1);
+//Console.WriteLine(t2);
+//Console.WriteLine(t3);
+
+// NO CONSOLE:
+// 10675199.02:48:05.4775807
+//- 10675199.02:48:05.4775808
+// 00:00:00
+
+//TimeSpan t = new TimeSpan(2, 3, 5, 7, 11);
+//Console.WriteLine(t);
+
+//// retorna números inteiros
+//Console.WriteLine("Days: " + t.Days);
+//Console.WriteLine("Hours: " + t.Hours);
+//Console.WriteLine("Minutes: " + t.Minutes);
+//Console.WriteLine("Milliseconds: " + t.Milliseconds);
+//Console.WriteLine("Seconds: " + t.Seconds);
+//Console.WriteLine("Ticks: " + t.Ticks);
+
+//// NO CONSOLE:
+//2.03:05:07.0110000
+//Days: 2
+//Hours: 3
+//Minutes: 5
+//Milliseconds: 11
+//Seconds: 7
+
+//// retorna double
+//Console.WriteLine("TotalDays: " + t.TotalDays);
+//Console.WriteLine("TotalHours: " + t.TotalHours);
+//Console.WriteLine("TotalMinutes: " + t.TotalMinutes);
+//Console.WriteLine("TotalSeconds: " + t.TotalSeconds);
+//Console.WriteLine("TotalMilliseconds: " + t.TotalMilliseconds);
+
+//// NO CONSOLE:
+//Ticks: 1839070110000
+//TotalDays: 2,1285533680555555
+//TotalHours: 51,085280833333336
+//TotalMinutes: 3065,11685
+//TotalSeconds: 183907,011
+//TotalMilliseconds: 183907011
+
+// Operações
+//TimeSpan t1 = new TimeSpan(1, 30, 10);
+//TimeSpan t2 = new TimeSpan(0, 10, 5);
+//TimeSpan sum = t1.Add(t2);
+//TimeSpan dif = t1.Subtract(t2);
+//TimeSpan mult = t2.Multiply(2.0);
+//TimeSpan div = t2.Divide(2.0);
+
+//Console.WriteLine(t1);
+//Console.WriteLine(t2);
+//Console.WriteLine(sum);
+//Console.WriteLine(dif);
+//Console.WriteLine(mult);
+//Console.WriteLine(div);
+
+//// No Console:
+//01:30:10
+//00:10:05
+//01:40:15
+//01:20:05
+//00:20:10
+//00:05:02.5000000
