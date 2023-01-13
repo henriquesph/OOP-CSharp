@@ -304,3 +304,84 @@
 //01:20:05
 //00:20:10
 //00:05:02.5000000
+
+
+
+// Aula 93 - DateTimeKind e Padrão ISO 8601
+
+// Tipo enumerado
+
+// 3 Valores:
+// - Local: fuso horário do sistema. Exemplo: São Paulo = GMT -3 - Baseado no utc - fusorário de 3h
+// - utc: fuso horário GMT (Greenwich Mean Time) - Fuso horário de Londres
+// - Unspecified
+
+//Boa prática
+//• Armazenar em formato UTC (texto: BD / Json / XML)
+//• Instanciar e mostrar em formato Local
+
+//Para converter um DateTime para Local ou Utc, você deve usar:
+//• myDate.ToLocalTime()
+//• myDate.ToUniversalTime()
+
+//DateTime d1 = new DateTime(2000, 8, 15, 13, 5, 58, DateTimeKind.Local); // Se instancia separando por virgulas - método construtor
+//DateTime d2 = new DateTime(2000, 8, 15, 13, 5, 58, DateTimeKind.Utc);
+//DateTime d3 = new DateTime(2000, 8, 15, 13, 5, 58);
+//Console.WriteLine("d1: " + d1);
+//Console.WriteLine("d1 Kind: " + d1.Kind); // imprime o tipo: local
+//Console.WriteLine("d1 to Local: " + d1.ToLocalTime()); // imprime a msm coisa
+//Console.WriteLine("d1 to Utc: " + d1.ToUniversalTime()); // imprime 3 horas a mais p/ converter ao horário universal
+
+//Console.WriteLine("d2: " + d2);
+//Console.WriteLine("d2 Kind: " + d2.Kind); // imprime o tipo: utc
+//Console.WriteLine("d2 to Local: " + d2.ToLocalTime()); // imprime com 3h a menos
+//Console.WriteLine("d2 to Utc: " + d2.ToUniversalTime()); // imprime a mesma coisa
+
+//Console.WriteLine("d3: " + d3);
+//Console.WriteLine("d3 Kind: " + d3.Kind); // tipo: unspecified
+//Console.WriteLine("d3 to Local: " + d3.ToLocalTime()); // subtrai 3h
+//Console.WriteLine("d3 to Utc: " + d3.ToUniversalTime()); // soma 3h
+
+
+
+// Padrão ISO 8601: yyyy-MM-ddTHH:mm:ssZ (indica que está no formato utc)
+
+// Z: indica que está em string e utc
+// T: Separa data do horário
+
+using System;
+
+DateTime d1 = DateTime.Parse("2000-08-15 13:05:58"); // na hora de imprimir a data, se troca o traço pela barra - método estático que passa de string para objeto (tipo enumerado)
+DateTime d2 = DateTime.Parse("2000-08-15T13:05:58Z"); // instanciada pro horário LOCAL da máquina (3h a menos)
+
+Console.WriteLine("d1: " + d1);
+Console.WriteLine("d1 Kind: " + d1.Kind);
+Console.WriteLine("d1 to Local: " + d1.ToLocalTime());
+Console.WriteLine("d1 to Utc: " + d1.ToUniversalTime());
+Console.WriteLine();
+
+
+Console.WriteLine("d2: " + d2);
+Console.WriteLine("d2 Kind: " + d2.Kind);
+Console.WriteLine("d2 to Local: " + d2.ToLocalTime());
+Console.WriteLine("d2 to Utc: " + d2.ToUniversalTime());
+Console.WriteLine();
+
+
+Console.WriteLine(d2.ToString("yyyy-MM-ddTHH:mm:ssZ")); // cuidado - foi instanciada LOCALMENTE - mantém o horário
+Console.WriteLine(d2.ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ")); // primeiro tem que passar para utc
+
+// RESULTADO:
+
+//d1: 15/08/2000 13:05:58
+//d1 Kind: Unspecified
+//d1 to Local: 15/08/2000 10:05:58 - diminuiu 3h
+//d1 to Utc: 15/08/2000 16:05:58 - aumentou 3h
+
+//d2: 15/08/2000 10:05:58
+//d2 Kind: Local
+//d2 to Local: 15/08/2000 10:05:58
+//d2 to Utc: 15/08/2000 13:05:58
+
+//2000 - 08 - 15T10: 05:58Z // manteve o horario local
+//2000 - 08 - 15T13: 05:58Z // passou o horário utc
