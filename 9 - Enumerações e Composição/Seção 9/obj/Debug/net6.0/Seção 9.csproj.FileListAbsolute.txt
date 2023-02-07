@@ -1,0 +1,15 @@
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\bin\Debug\net6.0\Seção 9.exe
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\bin\Debug\net6.0\Seção 9.deps.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\bin\Debug\net6.0\Seção 9.runtimeconfig.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\bin\Debug\net6.0\Seção 9.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\bin\Debug\net6.0\Seção 9.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\obj\Debug\net6.0\Seção 9.csproj.AssemblyReference.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\obj\Debug\net6.0\Seção 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\obj\Debug\net6.0\Seção 9.AssemblyInfoInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\obj\Debug\net6.0\Seção 9.AssemblyInfo.cs
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\obj\Debug\net6.0\Seção 9.csproj.CoreCompileInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\obj\Debug\net6.0\Seção 9.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\obj\Debug\net6.0\refint\Seção 9.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\obj\Debug\net6.0\Seção 9.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\obj\Debug\net6.0\Seção 9.genruntimeconfig.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Seção 9\obj\Debug\net6.0\ref\Seção 9.dll
