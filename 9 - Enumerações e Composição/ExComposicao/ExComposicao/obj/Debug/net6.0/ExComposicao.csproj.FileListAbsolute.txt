@@ -1,0 +1,15 @@
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\bin\Debug\net6.0\ExComposicao.exe
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\bin\Debug\net6.0\ExComposicao.deps.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\bin\Debug\net6.0\ExComposicao.runtimeconfig.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\bin\Debug\net6.0\ExComposicao.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\bin\Debug\net6.0\ExComposicao.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\obj\Debug\net6.0\ExComposicao.csproj.AssemblyReference.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\obj\Debug\net6.0\ExComposicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\obj\Debug\net6.0\ExComposicao.AssemblyInfoInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\obj\Debug\net6.0\ExComposicao.AssemblyInfo.cs
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\obj\Debug\net6.0\ExComposicao.csproj.CoreCompileInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\obj\Debug\net6.0\ExComposicao.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\obj\Debug\net6.0\refint\ExComposicao.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\obj\Debug\net6.0\ExComposicao.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\obj\Debug\net6.0\ExComposicao.genruntimeconfig.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\ExComposicao\ExComposicao\obj\Debug\net6.0\ref\ExComposicao.dll
