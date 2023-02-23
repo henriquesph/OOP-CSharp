@@ -1,0 +1,15 @@
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\bin\Debug\net6.0\Aula131.exe
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\bin\Debug\net6.0\Aula131.deps.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\bin\Debug\net6.0\Aula131.runtimeconfig.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\bin\Debug\net6.0\Aula131.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\bin\Debug\net6.0\Aula131.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\obj\Debug\net6.0\Aula131.csproj.AssemblyReference.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\obj\Debug\net6.0\Aula131.GeneratedMSBuildEditorConfig.editorconfig
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\obj\Debug\net6.0\Aula131.AssemblyInfoInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\obj\Debug\net6.0\Aula131.AssemblyInfo.cs
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\obj\Debug\net6.0\Aula131.csproj.CoreCompileInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\obj\Debug\net6.0\Aula131.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\obj\Debug\net6.0\refint\Aula131.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\obj\Debug\net6.0\Aula131.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\obj\Debug\net6.0\Aula131.genruntimeconfig.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex2\Aula131\obj\Debug\net6.0\ref\Aula131.dll
