@@ -1,0 +1,15 @@
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\bin\Debug\net6.0\Order.exe
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\bin\Debug\net6.0\Order.deps.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\bin\Debug\net6.0\Order.runtimeconfig.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\bin\Debug\net6.0\Order.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\bin\Debug\net6.0\Order.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\obj\Debug\net6.0\Order.csproj.AssemblyReference.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\obj\Debug\net6.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\obj\Debug\net6.0\Order.AssemblyInfoInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\obj\Debug\net6.0\Order.AssemblyInfo.cs
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\obj\Debug\net6.0\Order.csproj.CoreCompileInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\obj\Debug\net6.0\Order.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\obj\Debug\net6.0\refint\Order.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\obj\Debug\net6.0\Order.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\obj\Debug\net6.0\Order.genruntimeconfig.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\9 - Enumerações e Composição\Ex3 - aula 132\Order\obj\Debug\net6.0\ref\Order.dll
