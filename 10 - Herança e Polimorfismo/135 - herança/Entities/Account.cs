@@ -17,9 +17,10 @@
             Balance = balance;
         }
 
-        public void Withdraw(double amount) // saque
+        public virtual void Withdraw(double amount) // saque
+            // virtual: quer dizer que método pode ser sobrescrito na subclasse pelo override (classe savingAccount não terá a taxa de 5 reais)
         {
-            Balance -= amount;
+            Balance -= amount + 5;
         }
 
         public void Deposit(double amount)
