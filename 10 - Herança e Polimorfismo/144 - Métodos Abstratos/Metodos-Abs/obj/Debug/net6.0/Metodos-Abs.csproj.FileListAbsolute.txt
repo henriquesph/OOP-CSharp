@@ -1,0 +1,15 @@
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\obj\Debug\net6.0\Metodos-Abs.csproj.AssemblyReference.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\obj\Debug\net6.0\Metodos-Abs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\obj\Debug\net6.0\Metodos-Abs.AssemblyInfoInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\obj\Debug\net6.0\Metodos-Abs.AssemblyInfo.cs
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\obj\Debug\net6.0\Metodos-Abs.csproj.CoreCompileInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\bin\Debug\net6.0\Metodos-Abs.exe
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\bin\Debug\net6.0\Metodos-Abs.deps.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\bin\Debug\net6.0\Metodos-Abs.runtimeconfig.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\bin\Debug\net6.0\Metodos-Abs.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\bin\Debug\net6.0\Metodos-Abs.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\obj\Debug\net6.0\Metodos-Abs.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\obj\Debug\net6.0\refint\Metodos-Abs.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\obj\Debug\net6.0\Metodos-Abs.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\obj\Debug\net6.0\Metodos-Abs.genruntimeconfig.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\10 - Herança e Polimorfismo\144 - Métodos Abstratos\Metodos-Abs\obj\Debug\net6.0\ref\Metodos-Abs.dll
