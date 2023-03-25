@@ -1,0 +1,15 @@
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\bin\Debug\net6.0\Exceção.exe
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\bin\Debug\net6.0\Exceção.deps.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\bin\Debug\net6.0\Exceção.runtimeconfig.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\bin\Debug\net6.0\Exceção.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\bin\Debug\net6.0\Exceção.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\obj\Debug\net6.0\Exceção.csproj.AssemblyReference.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\obj\Debug\net6.0\Exceção.GeneratedMSBuildEditorConfig.editorconfig
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\obj\Debug\net6.0\Exceção.AssemblyInfoInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\obj\Debug\net6.0\Exceção.AssemblyInfo.cs
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\obj\Debug\net6.0\Exceção.csproj.CoreCompileInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\obj\Debug\net6.0\Exceção.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\obj\Debug\net6.0\refint\Exceção.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\obj\Debug\net6.0\Exceção.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\obj\Debug\net6.0\Exceção.genruntimeconfig.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\Exceção\obj\Debug\net6.0\ref\Exceção.dll
