@@ -1,0 +1,15 @@
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\bin\Debug\net6.0\Ex155.exe
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\bin\Debug\net6.0\Ex155.deps.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\bin\Debug\net6.0\Ex155.runtimeconfig.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\bin\Debug\net6.0\Ex155.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\bin\Debug\net6.0\Ex155.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\obj\Debug\net6.0\Ex155.csproj.AssemblyReference.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\obj\Debug\net6.0\Ex155.GeneratedMSBuildEditorConfig.editorconfig
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\obj\Debug\net6.0\Ex155.AssemblyInfoInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\obj\Debug\net6.0\Ex155.AssemblyInfo.cs
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\obj\Debug\net6.0\Ex155.csproj.CoreCompileInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\obj\Debug\net6.0\Ex155.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\obj\Debug\net6.0\refint\Ex155.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\obj\Debug\net6.0\Ex155.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\obj\Debug\net6.0\Ex155.genruntimeconfig.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\11 - Tratamento de exceções\155 - exercício\Ex155\obj\Debug\net6.0\ref\Ex155.dll
