@@ -132,8 +132,170 @@
 //}
 
 
-using System;
-using System.IO;
+//using System;
+//using System.IO;
+
+//namespace aula195
+//{
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            // forma resumida: não precisa instanciar 2 objetos, classe file, método OpenText() já instancia implicitamente a classe fileStream e o 
+//            // dessa forma é sem o StreamReader por cima dele
+//            //
+//            string path = @"C:\temp\file1.txt";
+//            StreamReader sr = null;
+
+//            try
+//            {
+//                sr = File.OpenText(path);
+//                while(!sr.EndOfStream) // para ler todas as linhas
+//                {
+//                    string line = sr.ReadLine();
+//                    Console.WriteLine(line);
+//                }
+//            }
+//            catch (Exception ex)
+//            {
+//                Console.WriteLine("An error ocurred");
+//                Console.WriteLine(ex.Message);
+//            }
+//            finally
+//            {
+//                if (sr != null)
+//                    sr.Close();
+//            }
+//        }
+//    }
+//}
+
+
+// ____________________________________________________x______________
+// AULA 197
+
+// USING BLOCK
+
+//https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement
+
+//Sintaxe simplificada que garante que os objetos IDisposable serão fechados.
+
+//Objetos IDisposable NÃO são gerenciados pelo CLR. Eles precisam ser
+//manualmente fechados.
+
+//Exemplos: Font, FileStream, StreamReader, StreamWriter
+
+//using System;
+//using System.IO;
+
+//namespace aula195
+//{
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            string path = @"C:\temp\file1.txt";
+
+//            //try
+//            //{
+//            //    using (FileStream fs = new FileStream(path, FileMode.Open)) // tudo que está dentro desse bloco será fechado
+//            //    {
+//            //        using (StreamReader sr = new StreamReader(fs)) // podem ser usado em cascata - sr também será fechado
+//            //        {
+//            //            while (!sr.EndOfStream)
+//            //            {
+//            //                string line = sr.ReadLine();
+//            //                Console.WriteLine(line);
+//            //            }
+//            //        }
+//            //    }
+//            //}
+
+//            // forma resumida:
+//            try
+//            {
+//                using (StreamReader sr = File.OpenText(path))
+//                {
+//                    while(!sr.EndOfStream)
+//                    {
+//                        string line = sr.ReadLine();
+//                        Console.WriteLine(line);
+//                    }
+//                }
+//            }
+//            catch (IOException ex)
+//            {
+//                Console.WriteLine("An error ocurred");
+//                Console.WriteLine(ex.Message);
+//            }
+//        }
+//    }
+//}
+
+
+////using System;
+////using System.IO;
+
+//////StreamWriter
+
+//////https://msdn.microsoft.com/en-us/library/system.io.streamwriter(v=vs.110).aspx
+
+//////É uma stream capaz de escrever caracteres a partir de uma stream binária (ex:
+//////FileStream).
+
+//////Suporte a dados no formato de texto.
+
+//////Instantiation:
+//////• Several constructors
+//////• File / FileInfo
+//////• CreateText(path)
+//////• AppendText(String)
+
+////namespace aula195
+////{
+////    class Program
+////    {
+////        static void Main(string[] args)
+////        {
+////            string sourcePath = @"C:\temp\file1.txt";
+////            string targetPath = @"C:\temp\file2.txt";
+
+////            try
+////            {
+////                string[] lines = File.ReadAllLines(sourcePath);
+
+////                using (StreamWriter sw = File.AppendText(targetPath)) // Append: Abre o arquivo para escrita e escreve a partir do final
+////                {
+////                    foreach(string line in lines)
+////                    {
+////                        sw.WriteLine(line.ToUpper());
+////                    }
+////                }
+////            }
+////            catch (IOException ex)
+////            {
+////                Console.WriteLine("An error ocurred");
+////                Console.WriteLine(ex.Message);
+////            }
+////        }
+////    }
+////}
+
+
+//using System; deixei comentado, nessa versão do C# não precisa chamar (?)
+//using System.IO;
+//using System.Collections.Generic;
+
+//Classe Directory, DirectoryInfo
+
+//• Namespace System.IO
+//• Operações com pastas (create, enumerate, get files, etc.).
+//• Directory
+//• static members (simple, but performs security check for each operation)
+//• https://msdn.microsoft.com/en-us/library/system.io.directory(v=vs.110).aspx
+//• DirectoryInfo
+//• instance members
+//• https://msdn.microsoft.com/en-us/library/system.io.directoryinfo(v=vs.110).aspx
 
 namespace aula195
 {
@@ -141,30 +303,43 @@ namespace aula195
     {
         static void Main(string[] args)
         {
-            // forma resumida: não precisa instanciar 2 objetos, classe file, método OpenText() já instancia implicitamente a classe fileStream e o 
-            // dessa forma é sem o StreamReader por cima dele
-            //
-            string path = @"C:\temp\file1.txt";
-            StreamReader sr = null;
-
+            string path = @"C:\temp\myfolder";
             try
             {
-                sr = File.OpenText(path);
-                while(!sr.EndOfStream) // para ler todas as linhas
+                // LISTAR PASTAS A PARTIR DE UMA PASTA INFORMADA - EnumerateDirectories
+
+                // foi usada a terceira sobrecarga do construtor
+
+                // IEnumerable: tipo mais genérico de coleção, neste caso com as strings com os nomes das pastas
+
+                // poderia simplificar e colocar "var folder": C# já faz a referência de tipo
+                IEnumerable<string> folders = Directory.EnumerateDirectories(path, "*.*", SearchOption.AllDirectories); // *.* - quaquer nome de arquivo, com qualquer nome de extensão
+                // AllDirectories: lista inclusive as subpastas
+
+                Console.WriteLine("FOLDERS");
+                foreach(string s in folders)
                 {
-                    string line = sr.ReadLine();
-                    Console.WriteLine(line);
+                    Console.WriteLine(s);
                 }
+
+                // LISTAR ARQUIVOS A PARTIR DE UMA PASTA INFORMADA - EnumerateFiles
+
+                IEnumerable<string> files = Directory.EnumerateFiles(path, "*.*", SearchOption.AllDirectories);  
+
+                Console.WriteLine("FILES");
+                foreach (string s in files)
+                {
+                    Console.WriteLine(s);
+                }
+
+                // CRIANDO UMA PASTA
+
+                Directory.CreateDirectory(path + "\\newfolder"); // 2 barras para indicar o caminho ou @
             }
-            catch (Exception ex)
+            catch (IOException ex)
             {
                 Console.WriteLine("An error ocurred");
                 Console.WriteLine(ex.Message);
-            }
-            finally
-            {
-                if (sr != null)
-                    sr.Close();
             }
         }
     }
