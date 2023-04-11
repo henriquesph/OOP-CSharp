@@ -297,50 +297,86 @@
 //• instance members
 //• https://msdn.microsoft.com/en-us/library/system.io.directoryinfo(v=vs.110).aspx
 
+//namespace aula195
+//{
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            string path = @"C:\temp\myfolder";
+//            try
+//            {
+//                // LISTAR PASTAS A PARTIR DE UMA PASTA INFORMADA - EnumerateDirectories
+
+//                // foi usada a terceira sobrecarga do construtor
+
+//                // IEnumerable: tipo mais genérico de coleção, neste caso com as strings com os nomes das pastas
+
+//                // poderia simplificar e colocar "var folder": C# já faz a referência de tipo
+//                IEnumerable<string> folders = Directory.EnumerateDirectories(path, "*.*", SearchOption.AllDirectories); // *.* - quaquer nome de arquivo, com qualquer nome de extensão
+//                // AllDirectories: lista inclusive as subpastas
+
+//                Console.WriteLine("FOLDERS");
+//                foreach(string s in folders)
+//                {
+//                    Console.WriteLine(s);
+//                }
+
+//                // LISTAR ARQUIVOS A PARTIR DE UMA PASTA INFORMADA - EnumerateFiles
+
+//                IEnumerable<string> files = Directory.EnumerateFiles(path, "*.*", SearchOption.AllDirectories);  
+
+//                Console.WriteLine("FILES");
+//                foreach (string s in files)
+//                {
+//                    Console.WriteLine(s);
+//                }
+
+//                // CRIANDO UMA PASTA
+
+//                Directory.CreateDirectory(path + "\\newfolder"); // 2 barras para indicar o caminho ou @
+//            }
+//            catch (IOException ex)
+//            {
+//                Console.WriteLine("An error ocurred");
+//                Console.WriteLine(ex.Message);
+//            }
+//        }
+//    }
+//}
+
+
+//Path
+//• Namespace System.IO
+//• Realiza operações com strings que contém informações de arquivos ou pastas.
+//• https://msdn.microsoft.com/en-us/library/system.io.path(v=vs.110).aspx
+
+using System;
+using System.IO;
+
 namespace aula195
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string path = @"C:\temp\myfolder";
-            try
-            {
-                // LISTAR PASTAS A PARTIR DE UMA PASTA INFORMADA - EnumerateDirectories
+            string path = @"C:\temp\myfolder\file1.txt";
 
-                // foi usada a terceira sobrecarga do construtor
+            Console.WriteLine("DirectorySeparatorChar: " + Path.DirectorySeparatorChar); // imprime a barra invertida "\", que é o separador do caminho
 
-                // IEnumerable: tipo mais genérico de coleção, neste caso com as strings com os nomes das pastas
+            Console.WriteLine("PathSeparator: " + Path.PathSeparator); // imprime o ponto e vírgula  ( que separa as pastas ??)
 
-                // poderia simplificar e colocar "var folder": C# já faz a referência de tipo
-                IEnumerable<string> folders = Directory.EnumerateDirectories(path, "*.*", SearchOption.AllDirectories); // *.* - quaquer nome de arquivo, com qualquer nome de extensão
-                // AllDirectories: lista inclusive as subpastas
+            Console.WriteLine("GetDirectoryName: " + Path.GetDirectoryName(path)); // pega somente o caminho da pasta sem mostrar o arquivo
 
-                Console.WriteLine("FOLDERS");
-                foreach(string s in folders)
-                {
-                    Console.WriteLine(s);
-                }
+            Console.WriteLine("GetFileName: " + Path.GetFileName(path));
 
-                // LISTAR ARQUIVOS A PARTIR DE UMA PASTA INFORMADA - EnumerateFiles
+            Console.WriteLine("GetExtension: " + Path.GetExtension(path));
 
-                IEnumerable<string> files = Directory.EnumerateFiles(path, "*.*", SearchOption.AllDirectories);  
+            Console.WriteLine("GetFileNameWithoutExtension " + Path.GetFileNameWithoutExtension(path));
 
-                Console.WriteLine("FILES");
-                foreach (string s in files)
-                {
-                    Console.WriteLine(s);
-                }
+            Console.WriteLine("GetFullPath: " + Path.GetFullPath(path));
 
-                // CRIANDO UMA PASTA
-
-                Directory.CreateDirectory(path + "\\newfolder"); // 2 barras para indicar o caminho ou @
-            }
-            catch (IOException ex)
-            {
-                Console.WriteLine("An error ocurred");
-                Console.WriteLine(ex.Message);
-            }
+            Console.WriteLine("GetTempPath: " + Path.GetTempPath()); // informa pasta temporária do sistema
         }
     }
 }
