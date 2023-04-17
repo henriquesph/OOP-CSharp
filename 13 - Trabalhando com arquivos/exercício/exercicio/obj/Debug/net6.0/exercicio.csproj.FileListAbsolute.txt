@@ -1,0 +1,15 @@
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\bin\Debug\net6.0\exercicio.exe
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\bin\Debug\net6.0\exercicio.deps.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\bin\Debug\net6.0\exercicio.runtimeconfig.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\bin\Debug\net6.0\exercicio.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\bin\Debug\net6.0\exercicio.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\obj\Debug\net6.0\exercicio.csproj.AssemblyReference.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\obj\Debug\net6.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\obj\Debug\net6.0\exercicio.AssemblyInfoInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\obj\Debug\net6.0\exercicio.AssemblyInfo.cs
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\obj\Debug\net6.0\exercicio.csproj.CoreCompileInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\obj\Debug\net6.0\exercicio.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\obj\Debug\net6.0\refint\exercicio.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\obj\Debug\net6.0\exercicio.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\obj\Debug\net6.0\exercicio.genruntimeconfig.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\13 - Trabalhando com arquivos\exercício\exercicio\obj\Debug\net6.0\ref\exercicio.dll
