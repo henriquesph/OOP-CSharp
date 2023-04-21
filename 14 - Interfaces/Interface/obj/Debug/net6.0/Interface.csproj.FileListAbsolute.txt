@@ -1,0 +1,15 @@
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\bin\Debug\net6.0\Interface.exe
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\bin\Debug\net6.0\Interface.deps.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\bin\Debug\net6.0\Interface.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\bin\Debug\net6.0\Interface.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\obj\Debug\net6.0\Interface.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\obj\Debug\net6.0\refint\Interface.dll
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\obj\Debug\net6.0\Interface.pdb
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+D:\Henrique\github\C# Completo - POO + projetos\Object-Oriented-Programming-whith-C----Projects\14 - Interfaces\Interface\obj\Debug\net6.0\ref\Interface.dll
