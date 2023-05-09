@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Henrique\\github\\C# Completo - POO + projetos\\Object-Oriented-Programming-whith-C----Projects\\14 - Interfaces\\ex208\\Ex208\\Ex208.csproj": {}
+    "E:\\Henrique\\Repositórios Github\\POO - C#\\Object-Oriented-Programming-whith-C-and-Projects\\14 - Interfaces\\ex208\\Ex208\\Ex208.csproj": {}
   },
   "projects": {
-    "D:\\Henrique\\github\\C# Completo - POO + projetos\\Object-Oriented-Programming-whith-C----Projects\\14 - Interfaces\\ex208\\Ex208\\Ex208.csproj": {
+    "E:\\Henrique\\Repositórios Github\\POO - C#\\Object-Oriented-Programming-whith-C-and-Projects\\14 - Interfaces\\ex208\\Ex208\\Ex208.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Henrique\\github\\C# Completo - POO + projetos\\Object-Oriented-Programming-whith-C----Projects\\14 - Interfaces\\ex208\\Ex208\\Ex208.csproj",
+        "projectUniqueName": "E:\\Henrique\\Repositórios Github\\POO - C#\\Object-Oriented-Programming-whith-C-and-Projects\\14 - Interfaces\\ex208\\Ex208\\Ex208.csproj",
         "projectName": "Ex208",
-        "projectPath": "D:\\Henrique\\github\\C# Completo - POO + projetos\\Object-Oriented-Programming-whith-C----Projects\\14 - Interfaces\\ex208\\Ex208\\Ex208.csproj",
+        "projectPath": "E:\\Henrique\\Repositórios Github\\POO - C#\\Object-Oriented-Programming-whith-C-and-Projects\\14 - Interfaces\\ex208\\Ex208\\Ex208.csproj",
         "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
-        "outputPath": "D:\\Henrique\\github\\C# Completo - POO + projetos\\Object-Oriented-Programming-whith-C----Projects\\14 - Interfaces\\ex208\\Ex208\\obj\\",
+        "outputPath": "E:\\Henrique\\Repositórios Github\\POO - C#\\Object-Oriented-Programming-whith-C-and-Projects\\14 - Interfaces\\ex208\\Ex208\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valer\\AppData\\Roaming\\NuGet\\NuGet.Config",

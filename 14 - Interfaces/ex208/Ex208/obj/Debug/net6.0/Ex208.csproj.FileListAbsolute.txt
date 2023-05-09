@@ -1,0 +1,15 @@
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\bin\Debug\net6.0\Ex208.exe
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\bin\Debug\net6.0\Ex208.deps.json
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\bin\Debug\net6.0\Ex208.runtimeconfig.json
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\bin\Debug\net6.0\Ex208.dll
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\bin\Debug\net6.0\Ex208.pdb
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\obj\Debug\net6.0\Ex208.csproj.AssemblyReference.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\obj\Debug\net6.0\Ex208.GeneratedMSBuildEditorConfig.editorconfig
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\obj\Debug\net6.0\Ex208.AssemblyInfoInputs.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\obj\Debug\net6.0\Ex208.AssemblyInfo.cs
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\obj\Debug\net6.0\Ex208.csproj.CoreCompileInputs.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\obj\Debug\net6.0\Ex208.dll
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\obj\Debug\net6.0\refint\Ex208.dll
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\obj\Debug\net6.0\Ex208.pdb
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\obj\Debug\net6.0\Ex208.genruntimeconfig.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\ex208\Ex208\obj\Debug\net6.0\ref\Ex208.dll

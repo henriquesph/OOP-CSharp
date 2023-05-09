@@ -1,4 +1,6 @@
-﻿namespace Ex208.Entities
+﻿using System.Globalization;
+
+namespace Ex208.Entities
 {
     class Installment
     {
@@ -10,6 +12,13 @@
         {
             DueDate = dueDate;
             Amount = amount;
+        }
+
+        public override string ToString()
+        {
+            return DueDate.ToString("dd/MM/yyyy")
+                + " - "
+                + Amount.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
