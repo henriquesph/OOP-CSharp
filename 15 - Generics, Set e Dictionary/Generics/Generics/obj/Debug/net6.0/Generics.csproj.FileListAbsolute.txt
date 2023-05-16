@@ -1,0 +1,15 @@
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\bin\Debug\net6.0\Generics.exe
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\bin\Debug\net6.0\Generics.deps.json
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\bin\Debug\net6.0\Generics.dll
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\bin\Debug\net6.0\Generics.pdb
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.dll
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\obj\Debug\net6.0\refint\Generics.dll
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.pdb
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Generics\Generics\obj\Debug\net6.0\ref\Generics.dll

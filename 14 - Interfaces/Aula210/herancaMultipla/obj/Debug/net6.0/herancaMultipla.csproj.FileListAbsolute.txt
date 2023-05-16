@@ -1,0 +1,15 @@
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\bin\Debug\net6.0\herancaMultipla.exe
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\bin\Debug\net6.0\herancaMultipla.deps.json
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\bin\Debug\net6.0\herancaMultipla.runtimeconfig.json
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\bin\Debug\net6.0\herancaMultipla.dll
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\bin\Debug\net6.0\herancaMultipla.pdb
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\obj\Debug\net6.0\herancaMultipla.csproj.AssemblyReference.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\obj\Debug\net6.0\herancaMultipla.GeneratedMSBuildEditorConfig.editorconfig
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\obj\Debug\net6.0\herancaMultipla.AssemblyInfoInputs.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\obj\Debug\net6.0\herancaMultipla.AssemblyInfo.cs
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\obj\Debug\net6.0\herancaMultipla.csproj.CoreCompileInputs.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\obj\Debug\net6.0\herancaMultipla.dll
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\obj\Debug\net6.0\refint\herancaMultipla.dll
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\obj\Debug\net6.0\herancaMultipla.pdb
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\obj\Debug\net6.0\herancaMultipla.genruntimeconfig.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\14 - Interfaces\Aula210\herancaMultipla\obj\Debug\net6.0\ref\herancaMultipla.dll
