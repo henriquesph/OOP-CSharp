@@ -1,0 +1,15 @@
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\bin\Debug\net6.0\Aula215.exe
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\bin\Debug\net6.0\Aula215.deps.json
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\bin\Debug\net6.0\Aula215.runtimeconfig.json
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\bin\Debug\net6.0\Aula215.dll
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\bin\Debug\net6.0\Aula215.pdb
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\obj\Debug\net6.0\Aula215.csproj.AssemblyReference.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\obj\Debug\net6.0\Aula215.GeneratedMSBuildEditorConfig.editorconfig
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\obj\Debug\net6.0\Aula215.AssemblyInfoInputs.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\obj\Debug\net6.0\Aula215.AssemblyInfo.cs
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\obj\Debug\net6.0\Aula215.csproj.CoreCompileInputs.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\obj\Debug\net6.0\Aula215.dll
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\obj\Debug\net6.0\refint\Aula215.dll
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\obj\Debug\net6.0\Aula215.pdb
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\obj\Debug\net6.0\Aula215.genruntimeconfig.cache
+E:\Henrique\Repositórios Github\POO - C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\Restrições Generics\Aula215\obj\Debug\net6.0\ref\Aula215.dll
