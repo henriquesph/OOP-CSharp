@@ -1,0 +1,15 @@
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\bin\Debug\net6.0\Dictionary.exe
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\bin\Debug\net6.0\Dictionary.dll
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\obj\Debug\net6.0\Dictionary.dll
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\obj\Debug\net6.0\refint\Dictionary.dll
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\15 - Generics, Set e Dictionary\222 - Dictionary and SortedDictionary\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll
