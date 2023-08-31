@@ -1,0 +1,15 @@
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\bin\Debug\net6.0\Multicast-Delegates.exe
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\bin\Debug\net6.0\Multicast-Delegates.deps.json
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\bin\Debug\net6.0\Multicast-Delegates.runtimeconfig.json
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\bin\Debug\net6.0\Multicast-Delegates.dll
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\bin\Debug\net6.0\Multicast-Delegates.pdb
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\obj\Debug\net6.0\Multicast-Delegates.csproj.AssemblyReference.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\obj\Debug\net6.0\Multicast-Delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\obj\Debug\net6.0\Multicast-Delegates.AssemblyInfoInputs.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\obj\Debug\net6.0\Multicast-Delegates.AssemblyInfo.cs
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\obj\Debug\net6.0\Multicast-Delegates.csproj.CoreCompileInputs.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\obj\Debug\net6.0\Multicast-Delegates.dll
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\obj\Debug\net6.0\refint\Multicast-Delegates.dll
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\obj\Debug\net6.0\Multicast-Delegates.pdb
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\obj\Debug\net6.0\Multicast-Delegates.genruntimeconfig.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\231 - Multicast Delegates\Multicast-Delegates\obj\Debug\net6.0\ref\Multicast-Delegates.dll
