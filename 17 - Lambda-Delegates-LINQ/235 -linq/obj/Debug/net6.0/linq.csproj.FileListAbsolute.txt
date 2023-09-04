@@ -1,0 +1,15 @@
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\bin\Debug\net6.0\linq.exe
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\bin\Debug\net6.0\linq.deps.json
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\bin\Debug\net6.0\linq.runtimeconfig.json
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\bin\Debug\net6.0\linq.dll
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\bin\Debug\net6.0\linq.pdb
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\obj\Debug\net6.0\linq.csproj.AssemblyReference.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\obj\Debug\net6.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\obj\Debug\net6.0\linq.AssemblyInfoInputs.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\obj\Debug\net6.0\linq.AssemblyInfo.cs
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\obj\Debug\net6.0\linq.csproj.CoreCompileInputs.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\obj\Debug\net6.0\linq.dll
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\obj\Debug\net6.0\refint\linq.dll
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\obj\Debug\net6.0\linq.pdb
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\obj\Debug\net6.0\linq.genruntimeconfig.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\235 -linq\obj\Debug\net6.0\ref\linq.dll

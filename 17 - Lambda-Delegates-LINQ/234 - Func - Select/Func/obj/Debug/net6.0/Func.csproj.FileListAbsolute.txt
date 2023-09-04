@@ -1,0 +1,15 @@
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\bin\Debug\net6.0\Func.exe
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\bin\Debug\net6.0\Func.deps.json
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\bin\Debug\net6.0\Func.runtimeconfig.json
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\bin\Debug\net6.0\Func.dll
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\bin\Debug\net6.0\Func.pdb
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\obj\Debug\net6.0\Func.csproj.AssemblyReference.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\obj\Debug\net6.0\Func.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\obj\Debug\net6.0\Func.AssemblyInfoInputs.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\obj\Debug\net6.0\Func.AssemblyInfo.cs
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\obj\Debug\net6.0\Func.csproj.CoreCompileInputs.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\obj\Debug\net6.0\Func.dll
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\obj\Debug\net6.0\refint\Func.dll
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\obj\Debug\net6.0\Func.pdb
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\obj\Debug\net6.0\Func.genruntimeconfig.cache
+E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\234 - Func - Select\Func\obj\Debug\net6.0\ref\Func.dll
