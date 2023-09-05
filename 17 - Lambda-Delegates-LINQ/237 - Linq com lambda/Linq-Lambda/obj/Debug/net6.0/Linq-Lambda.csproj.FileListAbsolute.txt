@@ -13,3 +13,18 @@ E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-De
 E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\obj\Debug\net6.0\Linq-Lambda.pdb
 E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\obj\Debug\net6.0\Linq-Lambda.genruntimeconfig.cache
 E:\Github\POO C#\Object-Oriented-Programming-whith-C-and-Projects\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\obj\Debug\net6.0\ref\Linq-Lambda.dll
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\bin\Debug\net6.0\Linq-Lambda.exe
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\bin\Debug\net6.0\Linq-Lambda.deps.json
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\bin\Debug\net6.0\Linq-Lambda.runtimeconfig.json
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\bin\Debug\net6.0\Linq-Lambda.dll
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\bin\Debug\net6.0\Linq-Lambda.pdb
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\obj\Debug\net6.0\Linq-Lambda.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\obj\Debug\net6.0\Linq-Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\obj\Debug\net6.0\Linq-Lambda.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\obj\Debug\net6.0\Linq-Lambda.AssemblyInfo.cs
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\obj\Debug\net6.0\Linq-Lambda.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\obj\Debug\net6.0\Linq-Lambda.dll
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\obj\Debug\net6.0\refint\Linq-Lambda.dll
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\obj\Debug\net6.0\Linq-Lambda.pdb
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\obj\Debug\net6.0\Linq-Lambda.genruntimeconfig.cache
+C:\Users\henri\Documents\Henrique\Github - repositorios\OOP\OOP-CSharp\17 - Lambda-Delegates-LINQ\237 - Linq com lambda\Linq-Lambda\obj\Debug\net6.0\ref\Linq-Lambda.dll
