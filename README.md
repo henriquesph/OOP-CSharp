@@ -1,4 +1,4 @@
-# Object-Oriented-Programming-whith-C-and-Projects
+# Object-Oriented-Programming-whith-C#-and-Projects
 Solved exercices of the course: " C# COMPLETO Programação Orientada a Objetos + Projetos"
 
 
