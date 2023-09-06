@@ -63,7 +63,7 @@ namespace Course
 
 
             // 238 - PARTE 2
-            // OPERAÇÕES DE AGREGAÇÃO
+            // OPERAÇÕES DE AGREGAÇÃO - pré definidas
 
             var r10 = products.Max(p => p.Price); // o Predicado implementa o IComparable
             Console.WriteLine("Max Price: " + r10);
@@ -80,7 +80,25 @@ namespace Course
             // Corrigindo o erro acima
             var r14 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average(); // se estiver vazio passa o zero
             Console.WriteLine("Category 5 Average prices: " + r14);
+
+
+            // Select e Aggregate (personalizadas) - map reduce (em outras linguagens)
+            var r15 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y);
+            // 0.0 é o valor inicial, caso venha vazio evita o exception
+            Console.WriteLine("Category 1 aggregate sum: " + r15);
+
+
+            var r16 = products.GroupBy(p => p.Category); // agrupa pelo critério definido
+            // é uma coleção (IEnumerable, cada elemento da coleção é um IGrouping com chave (Category) e uma coleção de elementos (Product)
+            foreach (IGrouping<Category, Product> group in r16)
+            {
+                Console.WriteLine("Category " + group.Key.Name + ":");
+                foreach (Product p in group)
+                {
+                    Console.WriteLine(p);
+                }
+                Console.WriteLine();
+            }
         }   
     }
 }
-5:30

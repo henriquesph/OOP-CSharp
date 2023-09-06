@@ -1,0 +1,15 @@
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\bin\Debug\net6.0\Algebra-R-SQL.exe
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\bin\Debug\net6.0\Algebra-R-SQL.deps.json
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\bin\Debug\net6.0\Algebra-R-SQL.runtimeconfig.json
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\bin\Debug\net6.0\Algebra-R-SQL.dll
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\bin\Debug\net6.0\Algebra-R-SQL.pdb
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\obj\Debug\net6.0\Algebra-R-SQL.csproj.AssemblyReference.cache
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\obj\Debug\net6.0\Algebra-R-SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\obj\Debug\net6.0\Algebra-R-SQL.AssemblyInfoInputs.cache
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\obj\Debug\net6.0\Algebra-R-SQL.AssemblyInfo.cs
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\obj\Debug\net6.0\Algebra-R-SQL.csproj.CoreCompileInputs.cache
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\obj\Debug\net6.0\Algebra-R-SQL.dll
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\obj\Debug\net6.0\refint\Algebra-R-SQL.dll
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\obj\Debug\net6.0\Algebra-R-SQL.pdb
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\obj\Debug\net6.0\Algebra-R-SQL.genruntimeconfig.cache
+C:\Users\hpereir.RADHA\Documents\GitHub\C# -- POO\OOP-CSharp\17 - Lambda-Delegates-LINQ\239 - Algebra Relacional e SQL\Algebra-R-SQL\Algebra-R-SQL\obj\Debug\net6.0\ref\Algebra-R-SQL.dll
