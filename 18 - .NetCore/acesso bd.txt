@@ -1,0 +1,9 @@
+usuário: developer
+senha: 12345678
+
+executar ou pausar mysql
+
+- ir em painel de controle
+- pesquisar: ferramentas administrativas
+- serviços
+- procurar mysql - pausar ou iniciar
