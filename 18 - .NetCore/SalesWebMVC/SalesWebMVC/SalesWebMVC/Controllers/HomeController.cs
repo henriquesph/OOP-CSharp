@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SalesWebMVC.Models;
+using SalesWebMVC.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -10,9 +10,11 @@ namespace SalesWebMVC.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        // IActionResult - interface genérica
+        // ViewResult - tipo específico que também poderia ser definido abaixo
+        public IActionResult Index() // Natural templates: na url é chamado o controlador e o controlador chama a página
         {
-            return View();
+            return View(); // builder method
         }
 
         public IActionResult About()

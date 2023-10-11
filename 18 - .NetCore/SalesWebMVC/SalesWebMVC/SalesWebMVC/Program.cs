@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore;
+﻿// Entry point da aplicação
+
+using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
