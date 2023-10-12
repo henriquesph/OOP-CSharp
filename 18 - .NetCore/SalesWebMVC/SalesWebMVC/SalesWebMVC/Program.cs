@@ -10,7 +10,7 @@ using System.Data.SqlClient;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
-using static Microsoft.AspNetCore.Hosting.Internal.HostingApplication;
+//using static Microsoft.AspNetCore.Hosting.Internal.HostingApplication;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
 namespace SalesWebMVC
