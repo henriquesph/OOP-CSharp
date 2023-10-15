@@ -1,5 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging.Abstractions;
+using MySqlConnector;
 using SalesWebMVC.Data;
 using System.Configuration;
 
@@ -20,6 +22,7 @@ builder.Services.AddDbContext<SalesWebMVCContext>(options =>
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<SeedingService>();
 
 var app = builder.Build();
 
@@ -31,6 +34,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.Services.CreateScope().ServiceProvider.GetRequiredService<SeedingService>().Seed();
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
@@ -43,6 +47,5 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
-
 
 // Migration = script pra migrar e versionar a base de dados
